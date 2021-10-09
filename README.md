@@ -1,2 +1,2 @@
-# Linear_Algebra
+# Linear Algebra
 This repository contains Linear Algebra Practice
